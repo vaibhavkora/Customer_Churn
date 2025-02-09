@@ -3,6 +3,8 @@
 
 This repository contains a Jupyter Notebook that analyzes customer churn using data science and machine learning techniques. The goal is to identify key factors leading to customer churn and build predictive models to minimize attrition.
 
+
+
 ![Image_Alt](cus.jpg)
 
 
