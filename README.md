@@ -9,18 +9,19 @@ This repository contains a Jupyter Notebook that analyzes customer churn using d
 
 
 
-## Project Overview
+## 📌Project Overview
 
 This project aims to predict customer churn using a dataset containing demographic, subscription, and usage details. The analysis includes exploratory data analysis (EDA), feature engineering, and machine learning model implementation.
 
-## Dataset
+## 📂Dataset
 
 The dataset includes:
 - **Demographics**: Gender, senior citizen status.
 - **Subscription Details**: Contract type, internet service, payment method.
 - **Billing & Usage**: Monthly charges, total charges.
 - **Churn Label**: Indicates whether a customer left or stayed.
-## Key Features
+  
+## 🚀Key Features
 
 Data Preprocessing: Handling missing values, selecting relevant features.
 Exploratory Data Analysis (EDA): Visualization of customer behavior, churn trends, and key influencing factors.
@@ -32,7 +33,7 @@ Random Forest
 Model Evaluation: Using accuracy, precision, recall, F1-score, confusion matrix.
 
 
-## Steps Performed in the Notebook
+## 🚀Steps Performed in the Notebook
 
  1. **Data Preprocessing** 
  - Handling missing values and feature encoding.
@@ -44,7 +45,7 @@ Model Evaluation: Using accuracy, precision, recall, F1-score, confusion matrix.
 - Implementing classification models (Logistic Regression, Random Forest, etc.).
 5. **Model Evaluation** 
 - Using accuracy, precision, recall, F1-score.
-## Installation
+## 🛠Installation
 
 Install my-project with npm
 
@@ -59,7 +60,7 @@ jupyter notebook Customer_churn.ipynb
 
 
     
-## Key Insights
+##📊Key Insights
 - Customers with month-to-month contracts are more likely to churn.
 - Electronic check payments are associated with higher churn rates.
 - Higher tenure and lower monthly charges reduce churn probability.
