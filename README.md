@@ -23,14 +23,14 @@ The dataset includes:
   
 ## 🚀Key Features
 
-Data Preprocessing: Handling missing values, selecting relevant features.
+Data Preprocessing: Handling missing values, and selecting relevant features.
 Exploratory Data Analysis (EDA): Visualization of customer behavior, churn trends, and key influencing factors.
 Feature Engineering: Creating new features to improve model accuracy.
 Machine Learning Models: Implementing various classification models such as:
 Logistic Regression
 Decision Trees
 Random Forest
-Model Evaluation: Using accuracy, precision, recall, F1-score, confusion matrix.
+Model Evaluation: Using accuracy, precision, recall, F1-score, and confusion matrix.
 
 
 ## 🚀Steps Performed in the Notebook
@@ -44,7 +44,7 @@ Model Evaluation: Using accuracy, precision, recall, F1-score, confusion matrix.
 4. **Model Training** 
 - Implementing classification models (Logistic Regression, Random Forest, etc.).
 5. **Model Evaluation** 
-- Using accuracy, precision, recall, F1-score.
+- Using accuracy, precision, recall, and F1-score.
 ## 🛠Installation
 
 Install my-project with npm
@@ -52,7 +52,7 @@ Install my-project with npm
 ```
 1. Clone this repository:
    ```
-   git clone : https://github.com/vaibhavkora/customer-churn.git
+   git clone: https://github.com/vaibhavkora/customer-churn.git
 
 pip install pandas numpy matplotlib seaborn scikit-learn
 
@@ -60,7 +60,7 @@ jupyter notebook Customer_churn.ipynb
 
 
     
-##📊Key Insights
+## 📊Key Insights
 - Customers with month-to-month contracts are more likely to churn.
 - Electronic check payments are associated with higher churn rates.
 - Higher tenure and lower monthly charges reduce churn probability.
