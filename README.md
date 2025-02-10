@@ -5,7 +5,7 @@ This repository contains a Jupyter Notebook that analyzes customer churn using d
 
 
 
-![Image_Alt](cus.jpg)
+![Image_Alt](Customer_churn.jpg)
 
 
 
